@@ -1,10 +1,10 @@
 <h1 align="center">¡Hola! 👋 Soy Enrique Orihuela Macias (CaseBroom65)</h1>
 
 <div align="center">
-  <img src="https://tenor.com/es-US/view/welcome-gif-23701526" height="200" alt="Bienvenida animada" />
+  <img src="https://media.tenor.com/qDwqNNDYHucAAAAC/welcome.gif" alt="Welcome to the Family" height="200" />
 </div>
 
-<h3 align="center">🎮 Desarrollador de videojuegos y entusiasta de la realidad aumentada</h3>
+<h3 align="center">🎮 Ingeniero en Desarrollador de videojuegos y entusiasta de la realidad aumentada</h3>
 
 ---
 
@@ -36,11 +36,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5542775524)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:enrique.orihuela.m@hotmail.com)
 
----
-
-### 📈 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CaseBroom65&show_icons=true&theme=radical)
 
 ---
 
