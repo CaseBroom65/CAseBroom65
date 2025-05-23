@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Enrique Orihuela Macias (CaseBroom65)</h1>
 
 <div align="center">
-  <img src="https://media.tenor.com/qDwqNNDYHucAAAAC/welcome.gif" alt="Welcome to the Family" height="200" />
+  <img src="https://media.tenor.com/0bE9w1zj9lAAAAAC/saludo-bienvenida-aplausos.gif" alt="Bienvenida animada" height="200" />
 </div>
 
 <h3 align="center">🎮 Ingeniero en Desarrollador de videojuegos y entusiasta de la realidad aumentada</h3>
@@ -21,7 +21,7 @@
 ### 🛠️ Tecnologías y Herramientas
 
 - Lenguajes: ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-- Motores: ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000000?style=flat&logo=unreal-engine&logoColor=white)![Unity](https://www.stickpng.com/assets/images/58482aeccef1014c0b5e4a1e.png)
+Motores: ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000000?style=flat&logo=unreal-engine&logoColor=white) ![Unity](https://www.stickpng.com/assets/images/58482aeccef1014c0b5e4a1e.png)
 - Gráficos: ![Direct3D 11](https://img.shields.io/badge/Direct3D%2011-007ACC?style=flat&logo=directx&logoColor=white)
 
 ---
