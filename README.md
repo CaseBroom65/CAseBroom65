@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Enrique Orihuela Macias (CaseBroom65)</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" height="200" alt="Bienvenida animada" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRnaGtidXR6MGxsaHJtOW0yYWRoNjcxcnYyd2RqamdqOXoyYmRueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbAgIgQ6Dytkk/giphy.gif" height="200" alt="Bienvenida animada" />
 </div>
 
 <h3 align="center">🎮 Ingeniero en Desarrollador de videojuegos y entusiasta de la realidad aumentada</h3>
@@ -18,11 +18,30 @@
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
-- Lenguajes: ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-Motores: ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000000?style=flat&logo=unreal-engine&logoColor=white) ![Unity](https://www.stickpng.com/assets/images/58482aeccef1014c0b5e4a1e.png)
-- Gráficos: ![Direct3D 11](https://img.shields.io/badge/Direct3D%2011-007ACC?style=flat&logo=directx&logoColor=white)
+- **Languages**:
+    
+    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+<br>   
+    
+- **Front-End Development**:
+
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+<br>
+
+- **Engines**:
+  - <img src="https://img.shields.io/badge/UnrealEngine-black?logo=UnrealEngine" width="120"/>
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" alt="Unity Logo" width="80"/>
+  - <img src= "https://img.shields.io/badge/DirectX11-blue?logo=Direct" width="90"/>
+
+
+
 
 ---
 
@@ -36,7 +55,9 @@ Motores: ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000000?st
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5542775524)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:enrique.orihuela.m@hotmail.com)
 
-
+---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ivancelot9&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 ---
 
 ### 🧠 Frase Favorita
