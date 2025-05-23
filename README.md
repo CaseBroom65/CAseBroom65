@@ -36,9 +36,9 @@
 <br>
 
 - **Engines**:
-  - <img src="https://img.shields.io/badge/UnrealEngine-black?logo=UnrealEngine" width="120"/>
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg" alt="Unity Logo" width="80"/>
   - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" alt="Unity Logo" width="80"/>
-  - <img src= "https://img.shields.io/badge/DirectX11-blue?logo=Direct" width="90"/>
+  - <img src= "https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft-DirectX-Logo-wordmark.svg" width="80"/>
 
 
 
