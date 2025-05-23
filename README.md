@@ -4,15 +4,15 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRnaGtidXR6MGxsaHJtOW0yYWRoNjcxcnYyd2RqamdqOXoyYmRueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbAgIgQ6Dytkk/giphy.gif" height="200" alt="Bienvenida animada" />
 </div>
 
-<h3 align="center">🎮 Ingeniero en Desarrollador de videojuegos y entusiasta de la realidad aumentada</h3>
+<h3 align="center">🎮 Ingeniero en desarrollador de videojuegos y entusiasta de la realidad aumentada</h3>
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🚀 Proyectos destacados:
 
 - 🎮 [gupp_engine](https://github.com/CaseBroom65/gupp_engine): Motor gráfico en desarrollo utilizando Direct3D 11.
 - 🧪 [AI_Unreal5](https://github.com/CaseBroom65/UR5-IA): Prototipo inicial en Unreal Engine.
-- 🧪 [Unreal_Materials](https://github.com/CaseBroom65/Unreal_Engine_5_Material): Proyecto en Unreal Engine 4.27.
+- 🧪 [Unreal_Materials](https://github.com/CaseBroom65/Unreal_Engine_5_Material): Proyecto en Unreal Engine 5.0.
 - 🎬 [MyProject-5.0---2](https://github.com/CaseBroom65/MyProject-5.0---2): Proyecto con cinemáticas en Unreal Engine 5.0.
 - 🧠 [Ucq_RA2024](https://github.com/CaseBroom65/Ucq_RA2024): Proyecto de realidad aumentada.
 
@@ -45,7 +45,7 @@
 
 ---
 
-### 🌐 Conecta Conmigo
+### 🌐 Conecta conmigo
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/CaseBroom65)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@casebroom65?_t=ZS-8waCIxl5gpe&_r=1)
