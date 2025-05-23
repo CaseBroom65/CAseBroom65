@@ -12,7 +12,7 @@
 
 - 🎮 [gupp_engine](https://github.com/CaseBroom65/gupp_engine): Motor gráfico en desarrollo utilizando Direct3D 11.
 - 🧪 [AI_Unreal5](https://github.com/CaseBroom65/UR5-IA): Prototipo inicial en Unreal Engine.
-- 🧪 [Unreal_Materials](https://github.com/CaseBroom65/Unreal_Engine_5_Material): Proyecto en Unreal Engine 5.0.
+- 🔮 [Unreal_Materials](https://github.com/CaseBroom65/Unreal_Engine_5_Material): Proyecto en Unreal Engine 5.0.
 - 🎬 [MyProject-5.0---2](https://github.com/CaseBroom65/MyProject-5.0---2): Proyecto con cinemáticas en Unreal Engine 5.0.
 - 🧠 [Ucq_RA2024](https://github.com/CaseBroom65/Ucq_RA2024): Proyecto de realidad aumentada.
 
