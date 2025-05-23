@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Enrique Orihuela Macias (CaseBroom65)</h1>
 
 <div align="center">
-  <img src="https://media.tenor.com/0bE9w1zj9lAAAAAC/saludo-bienvenida-aplausos.gif" alt="Bienvenida animada" height="200" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" height="200" alt="Bienvenida animada" />
 </div>
 
 <h3 align="center">🎮 Ingeniero en Desarrollador de videojuegos y entusiasta de la realidad aumentada</h3>
